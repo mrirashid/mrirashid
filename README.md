@@ -2,11 +2,11 @@
 
 
 <h1 align="center">Hi 👋, I'm MRI Rashid</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Malaysia</h3>
 
 ![Profile views](https://gpvc.arturio.dev/mrirashid) 
 
-I am a self-learning Web Developer. Currently, I am learning MERN Stack Development. I have been learning Web Technologies for two years. I would love to help you with your desire website project. I'm a hard-working and dedicated person. DM me for further discussion. Thanks 🖤
+I am a self-learning Web Developer. Currently, I am learning MERN Stack Development. I have been learning Web Technologies for two years. I would love to help you with your desired website project. I'm a hard-working and dedicated person. DM me for further discussion. Thanks 🖤
 
 Skills: WordPress / Bootstrap / JS / HTML / CSS
  
