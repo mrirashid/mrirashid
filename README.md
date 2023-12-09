@@ -1,14 +1,14 @@
 ![I am MRI Rashid](https://github.com/mrirashid/mrirashid/raw/main/full_front_back.jpg)
 
 
-<h1 align="center">Hi 👋, I'm MRI Rashid</h1>
+<h1 align="center">Hi 👋, I'm MD Rashidul Islam</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
 ![Profile views](https://gpvc.arturio.dev/mrirashid) 
 
 I am a self-learning Web Developer. Currently, I am learning MERN Stack Development. I have been learning Web Technologies for two years. I would love to help you with your desired website project. I'm a hard-working and dedicated person. DM me for further discussion. Thanks 🖤
 
-Skills: WordPress / Bootstrap / JS / HTML / CSS
+Skills: WordPress / Bootstrap / JS / HTML / CSS / PHP / C 
  
 
 🔭 I’m currently working on MERN Stack
