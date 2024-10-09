@@ -1,4 +1,5 @@
-![I am MRI Rashid](https://github.com/mrirashid/mrirashid/raw/main/Data_Science_Github.jpg)
+![Designer (4)](https://github.com/user-attachments/assets/7ebc6005-1797-4af9-a501-32925e2afe3f)
+
 
 <div align="center">
   <h1>Hi there 👋, Welcome to Rashidul's profile!</h1>
