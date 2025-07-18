@@ -14,14 +14,14 @@ I'm currently pursuing Bachelor's in Computer Science majoring in **Data Science
 
 ### Currently working on:
 - Early Alzheimer’s Detection using Vision Transformers + XAI.
-- Raw EEG Signal Processing using Vision Transformers 
+- Raw EEG Signal Processing using Vision Transformers. 
 ### My research interests include:
 - Medical Image Processing  
 - Computational Biology  
 - Signal Processing  
 - Classification Tasks  
 
-###I’m open to:
+### I’m open to:
 - Freelance Work
 -  collaborative work  
 - Machine Learning / Deep Learning Projects (Research or Development)  
