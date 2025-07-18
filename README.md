@@ -57,6 +57,7 @@ I'm currently pursuing Bachelor's in Computer Science majoring in **Data Science
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </p>
+
 ### AI Research & Tools
 <p>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white" />
