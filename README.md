@@ -23,7 +23,7 @@ I’m open to:
 -  collaborative work  
 - Machine Learning / Deep Learning Projects (Research or Development)  
 - Research Internships
-- 
+  
 ## Skills Overview
 
 ### ML & AI Development
