@@ -9,7 +9,6 @@
   <a href="https://www.researchgate.net/profile/Md-Islam-2920?ev=hdr_xprf" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white" /></a>
 </p>
 
----
 
 I'm currently pursuing Bachelor's in Computer Science majoring in **Data Science** at **Albukhary International University, Malaysia**.
 
@@ -23,10 +22,8 @@ I’m open to:
 - Freelance Work
 -  collaborative work  
 - Machine Learning / Deep Learning Projects (Research or Development)  
-- Research Internships  
-
----
-
+- Research Internships
+- 
 ## Skills Overview
 
 ### ML & AI Development
@@ -80,9 +77,6 @@ I’m open to:
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" />
 </p>
 
----
-
-
 ## Contributions Graph
 
 <p align="center">
@@ -92,6 +86,7 @@ I’m open to:
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 <h3>Let's Connect & Collaborate!</h3> 
 Feel free to explore my repositories, raise issues, or drop me an email. Always excited to work on meaningful ML/AI projects and contribute to impactful research.
 
