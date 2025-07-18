@@ -53,6 +53,10 @@ I’m open to:
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=PowerBI&logoColor=black" />
 </p>
 
+### Database Management
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+</p>
 ### AI Research & Tools
 <p>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white" />
