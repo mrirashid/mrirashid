@@ -36,10 +36,12 @@ I'm currently pursuing Bachelor's in Computer Science majoring in **Data Science
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat&logo=Apache%20Spark&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=HuggingFace&logoColor=black" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=MLflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white" />
 </p>
 
@@ -48,6 +50,7 @@ I'm currently pursuing Bachelor's in Computer Science majoring in **Data Science
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=flat&logo=Polars&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=Seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=Matplotlib&logoColor=white" />
@@ -58,7 +61,8 @@ I'm currently pursuing Bachelor's in Computer Science majoring in **Data Science
 
 ### Database Management
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
 </p>
 
 ### AI Research & Tools
@@ -79,6 +83,7 @@ I'm currently pursuing Bachelor's in Computer Science majoring in **Data Science
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=TailwindCSS&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" />
