@@ -13,7 +13,6 @@
 I'm currently pursuing Bachelor's in Computer Science majoring in **Data Science** at **Albukhary International University, Malaysia**.
 
 ### Currently working on:
-- Healthcare System for Multimodal Breast Cancer Diagnosis with Explainable AI and Personalised LLM Recommendations (Final Year Project).
 - Early Alzheimer’s Detection using Vision Transformers + XAI.
 - Raw EEG Signal Processing using Vision Transformers. 
 ### My research interests include:
