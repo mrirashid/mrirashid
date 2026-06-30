@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | ML Engineer | AI Researcher | Frontend Developer</h3>
 
 <p align="center">
-  <a href="https://mrirashid.tech/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=flat&logo=Google-Chrome&logoColor=white" /></a>
+  <a href="https://mrirashid.me/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=flat&logo=Google-Chrome&logoColor=white" /></a>
   <a href="mailto:mdrashidul.islam@student.aiu.edu.my" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mrirashid" target="_blank"><img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=cKYsD0kAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=Google-Scholar&logoColor=white" /></a>
